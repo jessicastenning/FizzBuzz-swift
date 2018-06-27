@@ -72,4 +72,5 @@ class BrainTests: XCTestCase {
         let result = brain.check(number: 1)
         XCTAssertEqual(result, "1")
     }
+    
 }
